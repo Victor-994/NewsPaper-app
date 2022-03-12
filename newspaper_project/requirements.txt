@@ -1,0 +1,14 @@
+asgiref
+crispy-bootstrap5
+dj-database-url
+dj-email-url
+Django
+django-cache-url
+django-crispy-forms
+environs
+gunicorn
+marshmallow
+psycopg2
+python-dotenv
+sqlparse
+whitenoise
